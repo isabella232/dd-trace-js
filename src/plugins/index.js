@@ -16,6 +16,7 @@ module.exports = {
   'ioredis': require('./ioredis'),
   'koa': require('./koa'),
   'memcached': require('./memcached'),
+  'moleculer': require('./moleculer'),
   'mongodb-core': require('./mongodb-core'),
   'mysql': require('./mysql'),
   'mysql2': require('./mysql2'),
